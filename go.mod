@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/prometheus/client_golang v1.16.0
-	github.com/storage-lock/go-events v0.0.3
+	github.com/storage-lock/go-events v0.0.5
 	github.com/storage-lock/go-storage v0.0.3
 	github.com/storage-lock/go-storage-events v0.0.6
 )
@@ -26,5 +26,3 @@ require (
 	golang.org/x/sys v0.44.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 )
-
-replace github.com/storage-lock/go-events => ../go-events
