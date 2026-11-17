@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/prometheus/client_golang v1.16.0
 	github.com/storage-lock/go-events v0.0.5
-	github.com/storage-lock/go-storage v0.0.3
+	github.com/storage-lock/go-storage v0.1.0
 	github.com/storage-lock/go-storage-events v0.0.6
 )
 
